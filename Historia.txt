@@ -4,4 +4,4 @@ Tiene 19 años y vivi en portugal, actualmente trabaja en accenture y esta por c
 
 Mide 1.80 y pesa 55Kg.
 
-El dia de hoy esta aprendiendo GITHUB.
+El dia de hoy esta aprendiendo GIT y GITHUB.
