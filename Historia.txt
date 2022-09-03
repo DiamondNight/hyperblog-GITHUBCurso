@@ -3,3 +3,5 @@ Esta es la historia de Luis Alves
 Tiene 19 años y vivi en portugal, actualmente trabaja en accenture y esta por cumplir 21.
 
 Mide 1.80 y pesa 55Kg.
+
+El dia de hoy esta aprendiendo GITHUB.
